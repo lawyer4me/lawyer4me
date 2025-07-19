@@ -8,11 +8,15 @@
 
 ## 🛠️ Навыки
 
-- Python: FastAPI, Aiohttp, Webhook-инфраструктура
-- GitHub: CI/CD, pull requests, автоматизация тасков
-- Telegram API: боты с логикой, обработка входящих задач, уведомления
-- TON: перевод средств, логирование, работа с кошельками
-- MetaMask / Ethereum: Layer3, подписания, Web3-квесты
+🧠 Full-stack developer with a hacker’s mindset & systems thinking.  
+⚙️ Python | FastAPI | Web3 | TON | Smart-contract automation | GitHub Bots  
+🤖 I create self-operating digital agents for real-world task automation.  
+📦 Deep knowledge of GitHub Actions, APIs, and secure crypto workflows  
+🌐 Architect of autonomous AI income systems (Task Runners / Bounties / Webhooks)  
+💸 Accepting TON, ETH. Building decentralized tools that run themselves.  
+📍 I work in silence. Results speak.
+
+→ Telegram: @lawyer4me
 
 ---
 
